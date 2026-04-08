@@ -1,0 +1,13 @@
+model = "gpt-5.4"
+model_reasoning_effort = "xhigh"
+[projects."/Users/leemyunggu/Coding/blodat"]
+trust_level = "trusted"
+
+[projects."/Users/leemyunggu/Coding"]
+trust_level = "trusted"
+
+[projects."/Users/leemyunggu/Coding/blo_writer_agent"]
+trust_level = "trusted"
+
+[projects."/Users/leemyunggu"]
+trust_level = "trusted"
