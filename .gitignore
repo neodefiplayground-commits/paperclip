@@ -1,0 +1,4 @@
+codex-home/
+*.sqlite
+*.jsonl
+.tmp/
