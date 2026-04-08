@@ -2,10 +2,5 @@
 *.sqlite
 *.jsonl
 
-# 민감한 인증 정보
-codex-home/auth.json
-
-# 임시/캐시 디렉토리
-codex-home/.tmp/
-codex-home/sessions/
-codex-home/tmp/
+# codex-home 전체 제외
+codex-home/
